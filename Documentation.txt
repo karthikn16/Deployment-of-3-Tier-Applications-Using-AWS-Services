@@ -164,6 +164,8 @@ nvm use 16
 
 aws s3 cp s3://<S3 Bucker Name>/application-code/web-tier/ web-tier --recursive
 aws s3 cp s3://dmo-3-tier-project1 /application-code/web-tier/ web-tier --recursive
+sudo aws s3 cp s3://demo-threetier3-project/application-code/nginx.conf /etc/nginx/nginx.conf
+
 
 ls ----> You will see 'web-tier'
 
