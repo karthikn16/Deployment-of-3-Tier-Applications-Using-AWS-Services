@@ -14,6 +14,7 @@ This project demonstrates a manually deployed 3-tier architecture on AWS for a w
 
 ---
 
+
 ## 🛠️ **Getting Started**
 
  **Fork and Clone** the repository to get started.
