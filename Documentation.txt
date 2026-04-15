@@ -1,6 +1,6 @@
 3 Tier Project
 ---------------------------
-GitHub URL: https://github.com/KastroVKiran/3TierArchitectureApp.git
+GitHub URL:https://github.com/karthikn16/Deployment-of-3-Tier-Applications-Using-AWS-Services.git
 
 *******************************************
 Steps for Setting Up the Project Infrastructure
